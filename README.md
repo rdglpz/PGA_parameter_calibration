@@ -14,7 +14,7 @@ The requirements to run this example are:
 * GrassGis 7.8.6 (tested in Ubuntu)
 * Installation of ```r.futures``` in GrassGis (with ```g.extension ```r.futures in GrassGis```)
 * Installation of ```r.object.geometry``` (with ```g.extension r.object.geometry```)
-* Database ```futures_triangle_nc```
+* Database ```futures_triangle_nc``` is found in ```https://drive.google.com/file/d/1dzMDfZRnKWv7c8gek7HFGYrXqs5lrY7w/view?usp=sharing```
 * Modules required listed in ```packages.txt```
 
 
@@ -22,6 +22,7 @@ The Python Notebook "PGA Calibration with EDA.ipynb" and  "PGA Calibration with 
 
 Please be careful locating the GrassGis project and substituting the information regarding the path of GrassGis, dataset and location.
 
+To facilitate the visualization, the Folder ```pga_evol_calib``` describes the area used for calibration and validation and a simulation examples output using GrassGis - Futures. 
 
 If you find useful this code please cite us:
 
